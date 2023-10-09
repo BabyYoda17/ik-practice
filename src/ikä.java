@@ -4,6 +4,7 @@ public class ikä {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+	System.out.println("tervetuloa coodiini");
 	int ika = 60;
 	if (ika > 0 && ika < 18)
 	{
