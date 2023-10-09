@@ -6,6 +6,7 @@ public class ikä {
 
 	System.out.println("Tervetuloa");
 	System.out.println("nuori tai vanha");
+	System.out.println("selvitä saatko ajaa autoa");
 	int ika = 60;
 	if (ika > 0 && ika < 18)
 	{
@@ -32,7 +33,7 @@ public class ikä {
 	}
 	if (ika >= 18)
 	{
-		System.out.println("Saat ajaa autos");
+		System.out.println("Saat ajaa autoa");
 	}
 	
 	
