@@ -5,6 +5,7 @@ public class ikä {
 		// TODO Auto-generated method stub
 
 	System.out.println("Tervetuloa");
+	System.out.println("nuori tai vanha");
 	int ika = 60;
 	if (ika > 0 && ika < 18)
 	{
